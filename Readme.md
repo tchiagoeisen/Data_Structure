@@ -1,7 +1,7 @@
 # LinkedList, Stack and Queue
 
 ## Overview
-This is a project which cover three kinds of data structure:<br>
+This is a project which contains three kinds of data structure:<br>
 
 - LinkedList<br>
 - Stack<br>
