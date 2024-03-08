@@ -9,6 +9,9 @@ This is a project which contains three kinds of data structure:<br>
 
 All of these structures work with `Nodes`. A node is a unit that has a value `Data` and a link `Reference` to the next node. 
 
+This was pratice project in python. The goal was to understand and pratice these data structure.
+I added a test file and lot of print() statments along the codes to check each function.
+
 ## The Project
 ### LinkedList
 A linkedList is a linear collection, sequence of nodes. 
@@ -49,7 +52,3 @@ Print Queue<br>
 Get Size<br>
 Has Space<br>
 Is Empty
-
-## Credits
-This was pratice project in python. The goal was to understand and pratice these data structure. <br>
-I added a test file and lot of print() statments along the codes to check each function.
